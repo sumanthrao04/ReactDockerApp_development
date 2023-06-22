@@ -7,16 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      
+        
+     
+            1.created a Docker File to containerize the React application with development environment. <br></br>
+
+            2.Build the docker file to create a docker image, and run the docker image to create a docker container.
+       
       </header>
     </div>
   );

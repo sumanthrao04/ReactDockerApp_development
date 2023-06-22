@@ -1,6 +1,8 @@
-# Getting Started with Create React App and docker react
+# Getting Started with Create React App and Docker react
 
-1. Developed a simple React application. 2. created a Docker File to containerize the React application. 3. Build the docker file to create a docker image, and run the docker image to create a docker container.
+1. Developed a simple React application.
+2. created a Docker File to containerize the React application.
+3. Build the docker file to create a docker image, and run the docker image to create a docker container.
 
 # Getting Started with Create React App
 
